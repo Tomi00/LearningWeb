@@ -1,0 +1,37 @@
+/*Posicionamiento*/
+.div{
+    width: 250px;
+    border: 1px solid black;
+}
+
+#container{
+    padding: 15px;
+    background-color: chocolate;
+    color: white;
+    position: relative;
+}
+
+#target{
+   
+}
+
+
+/*Flotación*/
+.child{
+    background-color: green;
+}
+
+.img1{
+    float: left;
+    
+}
+
+.img2{
+    float: right;
+}
+
+.clear{
+    clear: left;
+    clear: both;
+}
+

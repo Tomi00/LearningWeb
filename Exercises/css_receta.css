@@ -1,0 +1,70 @@
+header{
+    color: rgb(102, 14, 14);
+    border-style: inset;
+    margin-right: 600px;
+    margin-left: 600px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    text-align: center;
+    padding-left: 50px;
+    font-family: fantasy;
+    
+
+}
+
+h2{
+    color: rgb(102, 14, 14);
+    border-style: inset;
+    margin-right: 600px;
+    margin-left: 600px;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: fantasy;
+    border-radius: 10px;
+}
+
+img{
+    width: 300px;
+    margin: auto;
+    display: block;
+    background-color: blanchedalmond;
+    border-style: inset;
+    border-radius: 10px;
+}
+
+body{
+    background-image:url("https://img.freepik.com/fotos-premium/imagen-mezcla-frutas-verduras-imagen-fruta-verduras_168501-12644.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+ul{
+    background-color: blanchedalmond;
+    border-style: inset;
+    margin-right: 600px;
+        margin-left: 600px;
+        font-family: fantasy;
+        border-radius: 10px;
+}
+
+ol{
+    background-color: blanchedalmond;
+    border-style: inset;
+    margin-right: 600px;
+        margin-left: 600px;
+        font-family: fantasy;
+        border-radius: 10px;
+}
+nav{
+    margin-left: 250px;
+    font-family: fantasy;
+    
+}
+
+footer{
+    margin-left: 250px;
+    font-family: fantasy;
+}
+
